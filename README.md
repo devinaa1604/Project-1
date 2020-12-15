@@ -2,7 +2,7 @@
 
 ![](https://images.dwell.com/photos-6488407258118639616/6651031535077519360-large/a-fire-pit-between-two-wings-of-the-home-encourages-outdoor-living.jpg)
 
-## Where should the home investors invest in the US for maximum returns. 
+## Top 25 cities in US for the home investors invest in the next 5 years!
 
 Our project will focus on incorporating economic factors such as income, education, migration, current tax climate, crime rates, environmental factors, etc. to analyze how they affect the property values across the country. 
 
