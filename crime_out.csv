@@ -1,0 +1,601 @@
+date,cbsa_code,city_description,population,actual_murder,actual_all_crimes,actual_index_violent
+2014-01-01,12420,"Austin-Round Rock, TX Metro Area",1941049,5,6686.0,10.285714285714286
+2014-01-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2373749,4,8141.0,7.107843137254902
+2014-01-01,17900,"Columbia, SC Metro Area",804684,5,3172.0,4.564102564102564
+2014-01-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",6945276,22,23204.0,11.071428571428571
+2014-01-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2066423,7,8875.0,93.91666666666667
+2014-01-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1788640,6,6777.0,7.592592592592593
+2014-01-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2321344,0,0.0,0.0
+2014-01-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4494803,14,16890.0,34.625
+2014-01-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4443098,19,13602.0,15.21951219512195
+2014-01-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",2919454,0,0.0,0.0
+2014-02-01,12420,"Austin-Round Rock, TX Metro Area",1941049,3,5893.0,9.333333333333334
+2014-02-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2373749,12,6774.0,5.401960784313726
+2014-02-01,17900,"Columbia, SC Metro Area",804684,6,2783.0,3.8076923076923075
+2014-02-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",6945276,14,18955.0,9.083333333333334
+2014-02-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2066423,6,7591.0,93.5
+2014-02-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1788640,12,5970.0,6.027777777777778
+2014-02-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2321344,0,0.0,0.0
+2014-02-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4494803,13,14029.0,28.0
+2014-02-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4443098,11,11581.0,11.78048780487805
+2014-02-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",2919454,0,0.0,0.0
+2014-03-01,12420,"Austin-Round Rock, TX Metro Area",1941049,3,6648.0,11.333333333333334
+2014-03-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2373749,13,8100.0,6.588235294117647
+2014-03-01,17900,"Columbia, SC Metro Area",804684,3,3214.0,4.871794871794871
+2014-03-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",6945276,21,20952.0,10.422619047619047
+2014-03-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2066423,14,8647.0,113.0
+2014-03-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1788640,8,6818.0,7.916666666666667
+2014-03-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2321344,0,0.0,0.0
+2014-03-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4494803,13,15348.0,35.1
+2014-03-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4443098,14,12527.0,14.28048780487805
+2014-03-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",2919454,0,0.0,0.0
+2014-04-01,12420,"Austin-Round Rock, TX Metro Area",1941049,2,6936.0,11.023809523809524
+2014-04-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2373749,5,8387.0,7.176470588235294
+2014-04-01,17900,"Columbia, SC Metro Area",804684,7,3466.0,5.102564102564102
+2014-04-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",6945276,20,22239.0,11.25
+2014-04-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2066423,18,8469.0,104.41666666666667
+2014-04-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1788640,6,7475.0,8.574074074074074
+2014-04-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2321344,0,0.0,0.0
+2014-04-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4494803,19,15085.0,32.125
+2014-04-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4443098,24,13190.0,13.695121951219512
+2014-04-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",2919454,0,0.0,0.0
+2014-05-01,12420,"Austin-Round Rock, TX Metro Area",1941049,1,7214.0,11.5
+2014-05-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2373749,3,9434.0,8.235294117647058
+2014-05-01,17900,"Columbia, SC Metro Area",804684,3,3696.0,5.269230769230769
+2014-05-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",6945276,23,23939.0,12.666666666666666
+2014-05-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2066423,14,8749.0,108.33333333333333
+2014-05-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1788640,5,8392.0,9.50925925925926
+2014-05-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2321344,0,0.0,0.0
+2014-05-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4494803,13,15782.0,38.325
+2014-05-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4443098,21,13279.0,16.134146341463413
+2014-05-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",2919454,0,0.0,0.0
+2014-06-01,12420,"Austin-Round Rock, TX Metro Area",1941049,4,6799.0,11.928571428571429
+2014-06-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2373749,14,9144.0,7.764705882352941
+2014-06-01,17900,"Columbia, SC Metro Area",804684,4,3547.0,5.5
+2014-06-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",6945276,21,22806.0,12.023809523809524
+2014-06-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2066423,9,8415.0,108.83333333333333
+2014-06-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1788640,1,7820.0,8.694444444444445
+2014-06-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2321344,12,11506.0,14.024691358024691
+2014-06-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4494803,27,15301.0,38.25
+2014-06-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4443098,18,13012.0,14.621951219512194
+2014-06-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",2919454,24,20182.0,28.035714285714285
+2014-07-01,12420,"Austin-Round Rock, TX Metro Area",1941049,2,7012.0,12.857142857142858
+2014-07-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2373749,7,9200.0,8.509803921568627
+2014-07-01,17900,"Columbia, SC Metro Area",804684,5,3454.0,4.448717948717949
+2014-07-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",6945276,20,23948.0,13.05952380952381
+2014-07-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2066423,17,8285.0,116.66666666666667
+2014-07-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1788640,3,8088.0,9.87962962962963
+2014-07-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2321344,0,0.0,0.0
+2014-07-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4494803,19,15465.0,35.975
+2014-07-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4443098,18,13549.0,15.646341463414634
+2014-07-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",2919454,0,0.0,0.0
+2014-08-01,12420,"Austin-Round Rock, TX Metro Area",1941049,1,7026.0,10.80952380952381
+2014-08-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2373749,7,9320.0,8.529411764705882
+2014-08-01,17900,"Columbia, SC Metro Area",804684,1,3403.0,5.435897435897436
+2014-08-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",6945276,27,23140.0,11.803571428571429
+2014-08-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2066423,11,7979.0,101.0
+2014-08-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1788640,7,8369.0,10.462962962962964
+2014-08-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2321344,0,0.0,0.0
+2014-08-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4494803,17,15681.0,36.725
+2014-08-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4443098,14,13222.0,16.536585365853657
+2014-08-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",2919454,0,0.0,0.0
+2014-09-01,12420,"Austin-Round Rock, TX Metro Area",1941049,6,6883.0,11.119047619047619
+2014-09-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2373749,7,9110.0,7.686274509803922
+2014-09-01,17900,"Columbia, SC Metro Area",804684,11,3618.0,5.358974358974359
+2014-09-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",6945276,15,22744.0,11.261904761904763
+2014-09-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2066423,11,7846.0,106.91666666666667
+2014-09-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1788640,6,7813.0,9.268518518518519
+2014-09-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2321344,0,0.0,0.0
+2014-09-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4494803,16,15732.0,35.575
+2014-09-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4443098,14,12921.0,15.207317073170731
+2014-09-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",2919454,0,0.0,0.0
+2014-10-01,12420,"Austin-Round Rock, TX Metro Area",1941049,4,7252.0,11.166666666666666
+2014-10-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2373749,16,9632.0,8.254901960784315
+2014-10-01,17900,"Columbia, SC Metro Area",804684,1,3835.0,5.615384615384615
+2014-10-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",6945276,19,23888.0,11.303571428571429
+2014-10-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2066423,8,8311.0,115.66666666666667
+2014-10-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1788640,5,7703.0,7.703703703703703
+2014-10-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2321344,0,0.0,0.0
+2014-10-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4494803,24,16456.0,38.125
+2014-10-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4443098,15,13194.0,14.707317073170731
+2014-10-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",2919454,0,0.0,0.0
+2014-11-01,12420,"Austin-Round Rock, TX Metro Area",1941049,9,6560.0,12.119047619047619
+2014-11-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2373749,10,8310.0,7.313725490196078
+2014-11-01,17900,"Columbia, SC Metro Area",804684,4,3161.0,4.5256410256410255
+2014-11-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",6945276,23,21958.0,11.452380952380953
+2014-11-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2066423,13,7944.0,107.41666666666667
+2014-11-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1788640,7,6814.0,7.657407407407407
+2014-11-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2321344,0,0.0,0.0
+2014-11-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4494803,11,15411.0,33.975
+2014-11-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4443098,20,12469.0,14.487804878048781
+2014-11-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",2919454,0,0.0,0.0
+2014-12-01,12420,"Austin-Round Rock, TX Metro Area",1941049,6,6516.0,10.5
+2014-12-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2373749,9,8629.0,7.950980392156863
+2014-12-01,17900,"Columbia, SC Metro Area",804684,4,3454.0,5.115384615384615
+2014-12-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",6945276,35,23477.0,11.833333333333334
+2014-12-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2066423,10,8231.0,110.0
+2014-12-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1788640,5,6969.0,8.12962962962963
+2014-12-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2321344,103,96934.0,137.4814814814815
+2014-12-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4494803,20,16263.0,36.475
+2014-12-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4443098,15,13710.0,15.012195121951219
+2014-12-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",2919454,103,97748.0,101.01190476190476
+2015-01-01,12420,"Austin-Round Rock, TX Metro Area",2008606,2,6471.0,9.619047619047619
+2015-01-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2425547,9,8313.0,7.911764705882353
+2015-01-01,17900,"Columbia, SC Metro Area",811574,3,3373.0,4.794871794871795
+2015-01-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",7094003,26,22239.0,11.607142857142858
+2015-01-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2111967,7,8466.0,97.91666666666667
+2015-01-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1828218,12,6899.0,8.092592592592593
+2015-01-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2383541,0,0.0,0.0
+2015-01-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4585968,12,16345.0,36.75
+2015-01-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4491497,14,13887.0,14.536585365853659
+2015-01-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",2968747,0,0.0,0.0
+2015-02-01,12420,"Austin-Round Rock, TX Metro Area",2008606,5,6014.0,10.404761904761905
+2015-02-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2425547,11,6428.0,5.901960784313726
+2015-02-01,17900,"Columbia, SC Metro Area",811574,3,2749.0,3.948717948717949
+2015-02-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",7094003,13,17550.0,8.851190476190476
+2015-02-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2111967,7,7532.0,95.25
+2015-02-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1828218,7,5429.0,5.62037037037037
+2015-02-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2383541,0,0.0,0.0
+2015-02-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4585968,14,14254.0,30.2
+2015-02-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4491497,11,12479.0,14.182926829268293
+2015-02-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",2968747,0,0.0,0.0
+2015-03-01,12420,"Austin-Round Rock, TX Metro Area",2008606,4,6540.0,11.261904761904763
+2015-03-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2425547,7,8102.0,7.284313725490196
+2015-03-01,17900,"Columbia, SC Metro Area",811574,6,3292.0,4.743589743589744
+2015-03-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",7094003,22,21529.0,11.172619047619047
+2015-03-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2111967,8,8313.0,107.83333333333333
+2015-03-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1828218,5,6954.0,8.416666666666666
+2015-03-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2383541,0,0.0,0.0
+2015-03-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4585968,12,15440.0,38.125
+2015-03-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4491497,16,13782.0,17.695121951219512
+2015-03-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",2968747,0,0.0,0.0
+2015-04-01,12420,"Austin-Round Rock, TX Metro Area",2008606,6,6594.0,10.452380952380953
+2015-04-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2425547,7,8425.0,7.029411764705882
+2015-04-01,17900,"Columbia, SC Metro Area",811574,5,3532.0,4.987179487179487
+2015-04-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",7094003,18,21803.0,11.327380952380953
+2015-04-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2111967,12,8544.0,122.33333333333333
+2015-04-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1828218,6,7524.0,7.62037037037037
+2015-04-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2383541,0,0.0,0.0
+2015-04-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4585968,28,15140.0,35.325
+2015-04-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4491497,17,13517.0,16.304878048780488
+2015-04-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",2968747,0,0.0,0.0
+2015-05-01,12420,"Austin-Round Rock, TX Metro Area",2008606,2,7238.0,13.071428571428571
+2015-05-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2425547,4,8986.0,8.558823529411764
+2015-05-01,17900,"Columbia, SC Metro Area",811574,1,4031.0,6.243589743589744
+2015-05-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",7094003,33,23495.0,13.196428571428571
+2015-05-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2111967,18,9428.0,125.41666666666667
+2015-05-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1828218,9,8096.0,10.0
+2015-05-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2383541,0,0.0,0.0
+2015-05-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4585968,15,15703.0,39.575
+2015-05-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4491497,12,14219.0,17.70731707317073
+2015-05-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",2968747,0,0.0,0.0
+2015-06-01,12420,"Austin-Round Rock, TX Metro Area",2008606,5,6831.0,11.476190476190476
+2015-06-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2425547,8,8454.0,7.303921568627451
+2015-06-01,17900,"Columbia, SC Metro Area",811574,4,3726.0,5.5256410256410255
+2015-06-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",7094003,29,23098.0,12.94047619047619
+2015-06-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2111967,9,8621.0,130.08333333333334
+2015-06-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1828218,7,7742.0,9.037037037037036
+2015-06-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2383541,9,11444.0,15.765432098765432
+2015-06-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4585968,12,14835.0,36.6
+2015-06-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4491497,15,14080.0,17.98780487804878
+2015-06-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",2968747,32,20918.0,28.666666666666668
+2015-07-01,12420,"Austin-Round Rock, TX Metro Area",2008606,2,6974.0,13.642857142857142
+2015-07-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2425547,10,8854.0,8.794117647058824
+2015-07-01,17900,"Columbia, SC Metro Area",811574,5,3813.0,5.615384615384615
+2015-07-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",7094003,27,23732.0,12.761904761904763
+2015-07-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2111967,7,9278.0,144.16666666666666
+2015-07-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1828218,8,8263.0,10.5
+2015-07-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2383541,0,0.0,0.0
+2015-07-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4585968,19,15509.0,40.175
+2015-07-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4491497,13,14507.0,18.73170731707317
+2015-07-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",2968747,0,0.0,0.0
+2015-08-01,12420,"Austin-Round Rock, TX Metro Area",2008606,2,6921.0,12.357142857142858
+2015-08-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2425547,15,9683.0,9.794117647058824
+2015-08-01,17900,"Columbia, SC Metro Area",811574,8,3840.0,6.115384615384615
+2015-08-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",7094003,22,23772.0,13.470238095238095
+2015-08-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2111967,20,9077.0,132.58333333333334
+2015-08-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1828218,11,8432.0,11.027777777777779
+2015-08-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2383541,0,0.0,0.0
+2015-08-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4585968,24,15395.0,41.35
+2015-08-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4491497,10,14454.0,18.402439024390244
+2015-08-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",2968747,0,0.0,0.0
+2015-09-01,12420,"Austin-Round Rock, TX Metro Area",2008606,3,7002.0,11.595238095238095
+2015-09-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2425547,16,9311.0,8.254901960784315
+2015-09-01,17900,"Columbia, SC Metro Area",811574,8,3877.0,5.435897435897436
+2015-09-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",7094003,19,22177.0,11.529761904761905
+2015-09-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2111967,14,8527.0,122.75
+2015-09-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1828218,10,7823.0,9.027777777777779
+2015-09-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2383541,0,0.0,0.0
+2015-09-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4585968,15,15630.0,39.725
+2015-09-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4491497,17,14377.0,17.51219512195122
+2015-09-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",2968747,0,0.0,0.0
+2015-10-01,12420,"Austin-Round Rock, TX Metro Area",2008606,1,6591.0,9.761904761904763
+2015-10-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2425547,9,9040.0,8.647058823529411
+2015-10-01,17900,"Columbia, SC Metro Area",811574,5,3677.0,5.9743589743589745
+2015-10-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",7094003,29,23245.0,12.232142857142858
+2015-10-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2111967,10,8974.0,129.91666666666666
+2015-10-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1828218,12,7840.0,8.842592592592593
+2015-10-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2383541,0,0.0,0.0
+2015-10-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4585968,16,15636.0,37.75
+2015-10-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4491497,18,14901.0,19.29268292682927
+2015-10-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",2968747,0,0.0,0.0
+2015-11-01,12420,"Austin-Round Rock, TX Metro Area",2008606,6,6642.0,12.095238095238095
+2015-11-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2425547,6,8487.0,8.029411764705882
+2015-11-01,17900,"Columbia, SC Metro Area",811574,5,3416.0,4.794871794871795
+2015-11-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",7094003,24,21640.0,11.464285714285714
+2015-11-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2111967,14,8193.0,104.83333333333333
+2015-11-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1828218,5,7494.0,8.222222222222221
+2015-11-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2383541,0,0.0,0.0
+2015-11-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4585968,20,15237.0,34.425
+2015-11-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4491497,13,14011.0,16.597560975609756
+2015-11-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",2968747,0,0.0,0.0
+2015-12-01,12420,"Austin-Round Rock, TX Metro Area",2008606,6,6841.0,11.261904761904763
+2015-12-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2425547,8,8574.0,8.450980392156863
+2015-12-01,17900,"Columbia, SC Metro Area",811574,5,3471.0,5.064102564102564
+2015-12-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",7094003,25,23013.0,12.25
+2015-12-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2111967,19,8592.0,122.08333333333333
+2015-12-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1828218,13,7649.0,8.398148148148149
+2015-12-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2383541,112,98245.0,139.90123456790124
+2015-12-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4585968,18,16403.0,34.75
+2015-12-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4491497,40,14889.0,17.963414634146343
+2015-12-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",2968747,88,99883.0,106.8452380952381
+2016-01-01,12420,"Austin-Round Rock, TX Metro Area",2057443,1,6905.0,13.119047619047619
+2016-01-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2474170,12,8376.0,7.980392156862745
+2016-01-01,17900,"Columbia, SC Metro Area",821158,4,3412.0,5.243589743589744
+2016-01-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",7211508,27,22682.0,13.31547619047619
+2016-01-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2155946,15,8759.0,115.33333333333333
+2016-01-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1867746,9,6951.0,7.555555555555555
+2016-01-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2446851,0,0.0,0.0
+2016-01-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4677382,28,16595.0,39.775
+2016-01-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4511762,20,14637.0,17.402439024390244
+2016-01-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",3025461,0,0.0,0.0
+2016-02-01,12420,"Austin-Round Rock, TX Metro Area",2057443,1,6068.0,10.428571428571429
+2016-02-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2474170,10,7592.0,6.382352941176471
+2016-02-01,17900,"Columbia, SC Metro Area",821158,4,3012.0,4.076923076923077
+2016-02-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",7211508,18,19827.0,10.392857142857142
+2016-02-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2155946,17,7986.0,101.58333333333333
+2016-02-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1867746,12,6467.0,7.805555555555555
+2016-02-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2446851,0,0.0,0.0
+2016-02-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4677382,20,14804.0,36.075
+2016-02-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4511762,10,13031.0,16.341463414634145
+2016-02-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",3025461,0,0.0,0.0
+2016-03-01,12420,"Austin-Round Rock, TX Metro Area",2057443,4,6871.0,13.380952380952381
+2016-03-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2474170,12,8775.0,9.215686274509803
+2016-03-01,17900,"Columbia, SC Metro Area",821158,0,3401.0,5.666666666666667
+2016-03-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",7211508,39,21354.0,11.476190476190476
+2016-03-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2155946,11,8977.0,119.58333333333333
+2016-03-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1867746,8,7448.0,9.027777777777779
+2016-03-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2446851,0,0.0,0.0
+2016-03-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4677382,15,15924.0,40.625
+2016-03-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4511762,19,13682.0,17.71951219512195
+2016-03-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",3025461,0,0.0,0.0
+2016-04-01,12420,"Austin-Round Rock, TX Metro Area",2057443,3,6828.0,13.166666666666666
+2016-04-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2474170,9,9119.0,8.245098039215685
+2016-04-01,17900,"Columbia, SC Metro Area",821158,5,3696.0,5.371794871794871
+2016-04-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",7211508,26,22635.0,12.595238095238095
+2016-04-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2155946,26,8594.0,129.91666666666666
+2016-04-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1867746,8,7581.0,8.88888888888889
+2016-04-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2446851,0,0.0,0.0
+2016-04-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4677382,19,16414.0,41.375
+2016-04-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4511762,20,13753.0,18.463414634146343
+2016-04-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",3025461,0,0.0,0.0
+2016-05-01,12420,"Austin-Round Rock, TX Metro Area",2057443,5,6772.0,13.404761904761905
+2016-05-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2474170,17,10374.0,9.892156862745098
+2016-05-01,17900,"Columbia, SC Metro Area",821158,10,3875.0,5.358974358974359
+2016-05-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",7211508,38,23671.0,13.035714285714286
+2016-05-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2155946,10,9054.0,137.58333333333334
+2016-05-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1867746,6,7808.0,9.287037037037036
+2016-05-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2446851,0,0.0,0.0
+2016-05-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4677382,16,16633.0,42.625
+2016-05-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4511762,19,14730.0,18.926829268292682
+2016-05-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",3025461,0,0.0,0.0
+2016-06-01,12420,"Austin-Round Rock, TX Metro Area",2057443,8,6618.0,13.095238095238095
+2016-06-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2474170,6,9869.0,9.666666666666666
+2016-06-01,17900,"Columbia, SC Metro Area",821158,3,3327.0,4.730769230769231
+2016-06-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",7211508,34,22689.0,13.232142857142858
+2016-06-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2155946,18,8496.0,122.66666666666667
+2016-06-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1867746,12,7405.0,9.268518518518519
+2016-06-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2446851,65,10963.0,14.74074074074074
+2016-06-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4677382,33,16114.0,41.7
+2016-06-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4511762,25,13432.0,19.76829268292683
+2016-06-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",3025461,24,18483.0,25.88095238095238
+2016-07-01,12420,"Austin-Round Rock, TX Metro Area",2057443,12,6411.0,11.928571428571429
+2016-07-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2474170,15,9983.0,10.009803921568627
+2016-07-01,17900,"Columbia, SC Metro Area",821158,5,3501.0,5.384615384615385
+2016-07-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",7211508,37,22889.0,13.94047619047619
+2016-07-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2155946,15,8566.0,127.75
+2016-07-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1867746,12,7539.0,9.194444444444445
+2016-07-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2446851,0,0.0,0.0
+2016-07-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4677382,29,15974.0,44.675
+2016-07-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4511762,25,13595.0,19.695121951219512
+2016-07-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",3025461,0,0.0,0.0
+2016-08-01,12420,"Austin-Round Rock, TX Metro Area",2057443,6,6442.0,12.69047619047619
+2016-08-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2474170,12,9728.0,8.980392156862745
+2016-08-01,17900,"Columbia, SC Metro Area",821158,6,3736.0,6.128205128205129
+2016-08-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",7211508,35,23312.0,13.458333333333334
+2016-08-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2155946,17,9022.0,131.83333333333334
+2016-08-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1867746,4,7726.0,9.212962962962964
+2016-08-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2446851,0,0.0,0.0
+2016-08-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4677382,26,16886.0,43.2
+2016-08-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4511762,31,14047.0,19.48780487804878
+2016-08-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",3025461,0,0.0,0.0
+2016-09-01,12420,"Austin-Round Rock, TX Metro Area",2057443,9,6612.0,13.047619047619047
+2016-09-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2474170,10,9291.0,8.872549019607844
+2016-09-01,17900,"Columbia, SC Metro Area",821158,6,3898.0,4.987179487179487
+2016-09-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",7211508,32,22362.0,13.142857142857142
+2016-09-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2155946,15,9139.0,126.08333333333333
+2016-09-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1867746,13,7812.0,9.564814814814815
+2016-09-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2446851,0,0.0,0.0
+2016-09-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4677382,17,16283.0,41.425
+2016-09-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4511762,12,13131.0,17.670731707317074
+2016-09-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",3025461,0,0.0,0.0
+2016-10-01,12420,"Austin-Round Rock, TX Metro Area",2057443,6,7042.0,14.404761904761905
+2016-10-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2474170,11,8835.0,8.53921568627451
+2016-10-01,17900,"Columbia, SC Metro Area",821158,3,3799.0,5.0256410256410255
+2016-10-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",7211508,32,22975.0,13.785714285714286
+2016-10-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2155946,21,9073.0,98.25
+2016-10-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1867746,5,7928.0,9.63888888888889
+2016-10-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2446851,0,0.0,0.0
+2016-10-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4677382,21,16757.0,42.4
+2016-10-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4511762,15,13794.0,18.548780487804876
+2016-10-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",3025461,0,0.0,0.0
+2016-11-01,12420,"Austin-Round Rock, TX Metro Area",2057443,7,6388.0,11.928571428571429
+2016-11-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2474170,11,8782.0,8.431372549019608
+2016-11-01,17900,"Columbia, SC Metro Area",821158,6,3477.0,4.8076923076923075
+2016-11-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",7211508,23,21140.0,12.446428571428571
+2016-11-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2155946,14,8697.0,91.83333333333333
+2016-11-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1867746,8,7321.0,8.685185185185185
+2016-11-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2446851,0,0.0,0.0
+2016-11-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4677382,17,16033.0,44.55
+2016-11-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4511762,20,13757.0,17.036585365853657
+2016-11-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",3025461,0,0.0,0.0
+2016-12-01,12420,"Austin-Round Rock, TX Metro Area",2057443,8,6485.0,12.30952380952381
+2016-12-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2474170,19,9119.0,9.529411764705882
+2016-12-01,17900,"Columbia, SC Metro Area",821158,6,3797.0,4.576923076923077
+2016-12-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",7211508,27,22472.0,13.470238095238095
+2016-12-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2155946,15,8671.0,83.16666666666667
+2016-12-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1867746,18,6930.0,9.092592592592593
+2016-12-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2446851,131,96243.0,136.80246913580248
+2016-12-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4677382,15,17142.0,39.725
+2016-12-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4511762,12,14306.0,17.402439024390244
+2016-12-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",3025461,94,93400.0,96.66666666666667
+2017-01-01,12420,"Austin-Round Rock, TX Metro Area",2117921,4,6597.0,12.547619047619047
+2017-01-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2527942,13,9285.0,9.215686274509803
+2017-01-01,17900,"Columbia, SC Metro Area",827703,8,3955.0,5.576923076923077
+2017-01-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",7345796,42,22467.0,13.833333333333334
+2017-01-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2203346,12,9515.0,93.16666666666667
+2017-01-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1907486,12,7634.0,9.981481481481481
+2017-01-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2504627,0,0.0,0.0
+2017-01-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4753050,22,17034.0,42.1
+2017-01-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4574698,23,14257.0,16.621951219512194
+2017-01-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",3088779,0,0.0,0.0
+2017-02-01,12420,"Austin-Round Rock, TX Metro Area",2117921,5,5946.0,11.428571428571429
+2017-02-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2527942,7,7998.0,9.019607843137255
+2017-02-01,17900,"Columbia, SC Metro Area",827703,4,3038.0,4.102564102564102
+2017-02-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",7345796,24,19957.0,12.196428571428571
+2017-02-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2203346,14,7927.0,79.41666666666667
+2017-02-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1907486,11,6434.0,7.805555555555555
+2017-02-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2504627,0,0.0,0.0
+2017-02-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4753050,16,15121.0,38.875
+2017-02-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4574698,19,12605.0,15.426829268292684
+2017-02-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",3088779,0,0.0,0.0
+2017-03-01,12420,"Austin-Round Rock, TX Metro Area",2117921,7,6699.0,13.166666666666666
+2017-03-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2527942,13,7716.0,7.549019607843137
+2017-03-01,17900,"Columbia, SC Metro Area",827703,5,3216.0,4.064102564102564
+2017-03-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",7345796,36,21523.0,12.875
+2017-03-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2203346,16,8561.0,87.91666666666667
+2017-03-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1907486,11,7223.0,9.148148148148149
+2017-03-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2504627,0,0.0,0.0
+2017-03-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4753050,23,16784.0,45.525
+2017-03-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4574698,21,13834.0,17.23170731707317
+2017-03-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",3088779,0,0.0,0.0
+2017-04-01,12420,"Austin-Round Rock, TX Metro Area",2117921,3,6518.0,11.523809523809524
+2017-04-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2527942,11,8326.0,7.754901960784314
+2017-04-01,17900,"Columbia, SC Metro Area",827703,4,3551.0,4.730769230769231
+2017-04-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",7345796,29,22417.0,13.380952380952381
+2017-04-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2203346,17,8826.0,96.33333333333333
+2017-04-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1907486,8,7693.0,9.796296296296296
+2017-04-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2504627,0,0.0,0.0
+2017-04-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4753050,23,16424.0,46.775
+2017-04-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4574698,11,13730.0,17.585365853658537
+2017-04-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",3088779,0,0.0,0.0
+2017-05-01,12420,"Austin-Round Rock, TX Metro Area",2117921,6,6778.0,13.761904761904763
+2017-05-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2527942,9,8974.0,8.656862745098039
+2017-05-01,17900,"Columbia, SC Metro Area",827703,7,3797.0,4.935897435897436
+2017-05-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",7345796,35,23919.0,13.869047619047619
+2017-05-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2203346,17,10024.0,98.83333333333333
+2017-05-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1907486,15,8351.0,10.166666666666666
+2017-05-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2504627,0,0.0,0.0
+2017-05-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4753050,31,16918.0,47.6
+2017-05-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4574698,19,13757.0,18.414634146341463
+2017-05-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",3088779,0,0.0,0.0
+2017-06-01,12420,"Austin-Round Rock, TX Metro Area",2117921,3,6351.0,13.976190476190476
+2017-06-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2527942,14,8875.0,8.117647058823529
+2017-06-01,17900,"Columbia, SC Metro Area",827703,3,3577.0,4.82051282051282
+2017-06-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",7345796,26,22816.0,13.726190476190476
+2017-06-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2203346,13,8870.0,90.08333333333333
+2017-06-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1907486,15,8043.0,9.777777777777779
+2017-06-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2504627,13,10700.0,12.345679012345679
+2017-06-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4753050,17,16334.0,43.6
+2017-06-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4574698,21,12774.0,18.25609756097561
+2017-06-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",3088779,34,17990.0,25.61904761904762
+2017-07-01,12420,"Austin-Round Rock, TX Metro Area",2117921,3,6681.0,14.285714285714286
+2017-07-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2527942,11,9388.0,9.411764705882353
+2017-07-01,17900,"Columbia, SC Metro Area",827703,3,3801.0,5.256410256410256
+2017-07-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",7345796,28,22818.0,14.607142857142858
+2017-07-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2203346,12,9100.0,89.91666666666667
+2017-07-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1907486,12,8142.0,10.351851851851851
+2017-07-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2504627,0,0.0,0.0
+2017-07-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4753050,19,16952.0,46.0
+2017-07-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4574698,17,13369.0,19.76829268292683
+2017-07-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",3088779,0,0.0,0.0
+2017-08-01,12420,"Austin-Round Rock, TX Metro Area",2117921,8,6427.0,12.928571428571429
+2017-08-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2527942,12,9489.0,9.029411764705882
+2017-08-01,17900,"Columbia, SC Metro Area",827703,2,3681.0,5.128205128205129
+2017-08-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",7345796,27,23372.0,13.964285714285714
+2017-08-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2203346,9,9459.0,99.25
+2017-08-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1907486,10,7926.0,10.083333333333334
+2017-08-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2504627,0,0.0,0.0
+2017-08-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4753050,25,17523.0,55.85
+2017-08-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4574698,18,13425.0,20.158536585365855
+2017-08-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",3088779,0,0.0,0.0
+2017-09-01,12420,"Austin-Round Rock, TX Metro Area",2117921,2,6569.0,13.0
+2017-09-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2527942,11,8810.0,8.284313725490197
+2017-09-01,17900,"Columbia, SC Metro Area",827703,7,3869.0,5.730769230769231
+2017-09-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",7345796,40,22693.0,13.380952380952381
+2017-09-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2203346,6,9534.0,100.66666666666667
+2017-09-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1907486,13,7517.0,8.37962962962963
+2017-09-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2504627,0,0.0,0.0
+2017-09-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4753050,18,16537.0,45.625
+2017-09-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4574698,14,12375.0,17.414634146341463
+2017-09-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",3088779,0,0.0,0.0
+2017-10-01,12420,"Austin-Round Rock, TX Metro Area",2117921,4,6625.0,12.666666666666666
+2017-10-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2527942,10,9313.0,8.294117647058824
+2017-10-01,17900,"Columbia, SC Metro Area",827703,4,3638.0,5.0
+2017-10-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",7345796,36,23069.0,13.75
+2017-10-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2203346,73,9900.0,103.0
+2017-10-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1907486,12,7690.0,8.87962962962963
+2017-10-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2504627,0,0.0,0.0
+2017-10-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4753050,31,17681.0,51.325
+2017-10-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4574698,14,13714.0,19.585365853658537
+2017-10-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",3088779,0,0.0,0.0
+2017-11-01,12420,"Austin-Round Rock, TX Metro Area",2117921,1,6137.0,12.857142857142858
+2017-11-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2527942,12,8557.0,7.96078431372549
+2017-11-01,17900,"Columbia, SC Metro Area",827703,4,3686.0,5.0
+2017-11-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",7345796,36,21667.0,13.625
+2017-11-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2203346,16,9172.0,86.16666666666667
+2017-11-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1907486,14,7189.0,8.092592592592593
+2017-11-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2504627,0,0.0,0.0
+2017-11-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4753050,18,16429.0,48.675
+2017-11-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4574698,15,12879.0,16.29268292682927
+2017-11-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",3088779,0,0.0,0.0
+2017-12-01,12420,"Austin-Round Rock, TX Metro Area",2117921,6,6139.0,11.976190476190476
+2017-12-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2527942,9,8165.0,7.235294117647059
+2017-12-01,17900,"Columbia, SC Metro Area",827703,8,3723.0,4.884615384615385
+2017-12-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",7345796,20,21509.0,12.416666666666666
+2017-12-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2203346,33,9425.0,91.58333333333333
+2017-12-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1907486,16,7174.0,7.851851851851852
+2017-12-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2504627,112,92353.0,124.69135802469135
+2017-12-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4753050,30,16602.0,43.325
+2017-12-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4574698,17,13462.0,16.951219512195124
+2017-12-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",3088779,77,88652.0,96.67857142857143
+2018-01-01,12420,"Austin-Round Rock, TX Metro Area",2173033,3,6053.0,11.477272727272727
+2018-01-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2576452,10,8463.0,8.294117647058824
+2018-01-01,17900,"Columbia, SC Metro Area",834324,6,3585.0,5.012658227848101
+2018-01-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",7500561,27,21513.0,12.23121387283237
+2018-01-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2236094,18,9209.0,86.08333333333333
+2018-01-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1942634,13,7116.0,9.277777777777779
+2018-01-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2568290,0,0.0,0.0
+2018-01-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4876829,25,17180.0,44.85
+2018-01-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4598111,23,14477.0,17.44047619047619
+2018-01-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",3140906,0,0.0,0.0
+2018-02-01,12420,"Austin-Round Rock, TX Metro Area",2173033,2,5715.0,11.068181818181818
+2018-02-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2576452,8,7644.0,7.137254901960785
+2018-02-01,17900,"Columbia, SC Metro Area",834324,7,3356.0,4.8354430379746836
+2018-02-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",7500561,24,18434.0,9.647398843930636
+2018-02-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2236094,18,8567.0,98.08333333333333
+2018-02-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1942634,7,6530.0,7.916666666666667
+2018-02-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2568290,0,0.0,0.0
+2018-02-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4876829,18,15318.0,39.7
+2018-02-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4598111,16,12061.0,15.369047619047619
+2018-02-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",3140906,0,0.0,0.0
+2018-03-01,12420,"Austin-Round Rock, TX Metro Area",2173033,7,6199.0,12.75
+2018-03-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2576452,6,7899.0,7.490196078431373
+2018-03-01,17900,"Columbia, SC Metro Area",834324,5,3694.0,4.974683544303797
+2018-03-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",7500561,36,21541.0,11.988439306358382
+2018-03-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2236094,12,9102.0,88.16666666666667
+2018-03-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1942634,10,7152.0,8.675925925925926
+2018-03-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2568290,0,0.0,0.0
+2018-03-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4876829,23,16285.0,45.875
+2018-03-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4598111,15,13172.0,17.023809523809526
+2018-03-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",3140906,0,0.0,0.0
+2018-04-01,12420,"Austin-Round Rock, TX Metro Area",2173033,3,6169.0,10.659090909090908
+2018-04-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2576452,15,8231.0,7.401960784313726
+2018-04-01,17900,"Columbia, SC Metro Area",834324,1,3656.0,4.936708860759493
+2018-04-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",7500561,31,21464.0,11.965317919075144
+2018-04-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2236094,14,9171.0,89.0
+2018-04-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1942634,12,7020.0,7.935185185185185
+2018-04-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2568290,0,0.0,0.0
+2018-04-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4876829,16,16578.0,49.9
+2018-04-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4598111,17,13412.0,17.678571428571427
+2018-04-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",3140906,0,0.0,0.0
+2018-05-01,12420,"Austin-Round Rock, TX Metro Area",2173033,6,6367.0,13.522727272727273
+2018-05-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2576452,13,9780.0,8.892156862745098
+2018-05-01,17900,"Columbia, SC Metro Area",834324,5,4030.0,5.658227848101266
+2018-05-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",7500561,33,23396.0,13.202312138728324
+2018-05-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2236094,8,10283.0,103.66666666666667
+2018-05-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1942634,20,8057.0,9.287037037037036
+2018-05-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2568290,0,0.0,0.0
+2018-05-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4876829,23,17096.0,48.7
+2018-05-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4598111,21,13942.0,18.154761904761905
+2018-05-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",3140906,0,0.0,0.0
+2018-06-01,12420,"Austin-Round Rock, TX Metro Area",2173033,7,6414.0,12.090909090909092
+2018-06-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2576452,12,9491.0,9.549019607843137
+2018-06-01,17900,"Columbia, SC Metro Area",834324,4,3834.0,4.632911392405063
+2018-06-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",7500561,28,22407.0,13.23121387283237
+2018-06-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2236094,16,9342.0,92.75
+2018-06-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1942634,12,7710.0,9.296296296296296
+2018-06-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2568290,67,48116.0,67.38271604938272
+2018-06-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4876829,23,15934.0,45.875
+2018-06-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4598111,28,12940.0,17.595238095238095
+2018-06-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",3140906,52,49654.0,55.01190476190476
+2018-07-01,12420,"Austin-Round Rock, TX Metro Area",2173033,5,6589.0,11.568181818181818
+2018-07-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2576452,9,9443.0,9.607843137254902
+2018-07-01,17900,"Columbia, SC Metro Area",834324,6,3905.0,5.189873417721519
+2018-07-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",7500561,27,22255.0,14.121387283236995
+2018-07-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2236094,10,9377.0,96.08333333333333
+2018-07-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1942634,13,8287.0,10.148148148148149
+2018-07-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2568290,0,0.0,0.0
+2018-07-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4876829,22,16495.0,46.475
+2018-07-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4598111,17,13953.0,19.833333333333332
+2018-07-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",3140906,0,0.0,0.0
+2018-08-01,12420,"Austin-Round Rock, TX Metro Area",2173033,6,6818.0,13.363636363636363
+2018-08-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2576452,13,9753.0,10.176470588235293
+2018-08-01,17900,"Columbia, SC Metro Area",834324,8,4083.0,4.8354430379746836
+2018-08-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",7500561,27,22536.0,13.028901734104046
+2018-08-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2236094,16,9246.0,101.41666666666667
+2018-08-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1942634,13,8377.0,9.287037037037036
+2018-08-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2568290,0,0.0,0.0
+2018-08-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4876829,23,16732.0,45.5
+2018-08-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4598111,19,14138.0,19.535714285714285
+2018-08-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",3140906,0,0.0,0.0
+2018-09-01,12420,"Austin-Round Rock, TX Metro Area",2173033,7,6535.0,12.5
+2018-09-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2576452,10,8952.0,10.686274509803921
+2018-09-01,17900,"Columbia, SC Metro Area",834324,4,3994.0,5.848101265822785
+2018-09-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",7500561,26,22588.0,12.84393063583815
+2018-09-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2236094,21,9281.0,96.5
+2018-09-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1942634,14,7962.0,9.722222222222221
+2018-09-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2568290,0,0.0,0.0
+2018-09-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4876829,10,16372.0,44.775
+2018-09-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4598111,15,13102.0,18.726190476190474
+2018-09-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",3140906,0,0.0,0.0
+2018-10-01,12420,"Austin-Round Rock, TX Metro Area",2173033,2,7175.0,12.25
+2018-10-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2576452,9,8971.0,7.950980392156863
+2018-10-01,17900,"Columbia, SC Metro Area",834324,7,4206.0,5.3924050632911396
+2018-10-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",7500561,18,21865.0,13.624277456647398
+2018-10-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2236094,14,9253.0,103.83333333333333
+2018-10-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1942634,14,7708.0,8.5
+2018-10-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2568290,0,0.0,0.0
+2018-10-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4876829,17,17091.0,46.4
+2018-10-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4598111,14,13985.0,18.142857142857142
+2018-10-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",3140906,0,0.0,0.0
+2018-11-01,12420,"Austin-Round Rock, TX Metro Area",2173033,3,6422.0,10.113636363636363
+2018-11-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2576452,10,8288.0,7.980392156862745
+2018-11-01,17900,"Columbia, SC Metro Area",834324,4,3781.0,4.367088607594937
+2018-11-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",7500561,25,21016.0,12.6878612716763
+2018-11-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2236094,13,8386.0,92.25
+2018-11-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1942634,8,6992.0,8.222222222222221
+2018-11-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2568290,0,0.0,0.0
+2018-11-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4876829,14,16007.0,41.9
+2018-11-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4598111,14,12977.0,16.476190476190474
+2018-11-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",3140906,0,0.0,0.0
+2018-12-01,12420,"Austin-Round Rock, TX Metro Area",2173033,2,6706.0,11.386363636363637
+2018-12-01,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2576452,9,8404.0,8.117647058823529
+2018-12-01,17900,"Columbia, SC Metro Area",834324,6,3699.0,4.987341772151899
+2018-12-01,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",7500561,26,22338.0,13.369942196531792
+2018-12-01,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2236094,10,8687.0,97.91666666666667
+2018-12-01,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1942634,18,7540.0,9.36111111111111
+2018-12-01,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2568290,0,0.0,0.0
+2018-12-01,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4876829,17,16519.0,40.5
+2018-12-01,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4598111,21,13504.0,17.547619047619047
+2018-12-01,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",3140906,0,0.0,0.0
