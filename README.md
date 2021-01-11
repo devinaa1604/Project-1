@@ -22,8 +22,13 @@ Our data source ranged from:
   
 ## DATA
 ### Migration Data
+Using the census.gov api I was able to pull down Migration Data showing Net Migration from MSA (Metropolitan Statistical Area) to MSA and roll up the net migration numbers for each city on the api.  From there I filtered on the top 10 MSAs that gained in net migration.
+
+### Zillow Home Values
+Using Quandl's Zillow API - I was able to match up the Migration Data using the CBSA codes in combination with the Zillow Crosswalk data set that allows for lookup values to match with Zillows MetroRegion ID.  Looping through the Migration Codes provided a list of home values by Zillow Id.  From there - we converted home values for each year to a % change which gave us our returns for each City.  We charted those returns to show the Cumulative returns for each city over the 5 year period limited to our list of top 10 migrated cities.
 
 ### Crime Data
+We found large datasets with crime information but after massaging the data and running test regressions we found that the crime data showed little correlation to home values so we decided to remove from the project.
 
 ### Problems with data
 As we got aquatinted with the terms such as FIPS and CBSA codes, we realized that it is much difficult for us to find the data that matches these county and MSA codes and along with that we needed the data to be in the same time frame, with all yearly data in a format that can be used to run regressions. Therefore, we moved to our alternate plan. 
