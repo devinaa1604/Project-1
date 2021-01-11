@@ -45,9 +45,9 @@ The MSE was at 1.5 which shows that 98.5% of the model is accurate however, base
 
 ## IMPLICATIONS AND CONCLUSION
 1. Our biggest challenge was data:
-  i. Find appropriate data for each variable and be able to join them to make one useful data set that can be used for regression and prediction
-  ii. Find the data for such macro economic variables could be gorverment data which isnt easily available to us
-  iii. Because of lack of data, we had few variables and had to compromise with our regression
+  - Find appropriate data for each variable and be able to join them to make one useful data set that can be used for regression and prediction
+  - Find the data for such macro economic variables could be gorverment data which isnt easily available to us
+  - Because of lack of data, we had few variables and had to compromise with our regression
   
 2. Further work:
     - Include more variables which are better correlated with the target variable and could yield a model that can be used for prediction
