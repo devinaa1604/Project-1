@@ -1,4 +1,4 @@
-# Project 1
+# PROJECT 1
 
 ![](https://images.dwell.com/photos-6488407258118639616/6651031535077519360-large/a-fire-pit-between-two-wings-of-the-home-encourages-outdoor-living.jpg)
 
@@ -44,11 +44,11 @@ The we fit the training set on the test set which gave us a good fit but that co
 The MSE was at 1.5 which shows that 98.5% of the model is accurate however, based on the lack of data and significant coffecients, we were unable to form a predictive model. 
 
 ## IMPLICATIONS AND CONCLUSION
-  1. Our biggest challenge was data:
-    - Find appropriate data for each variable and be able to join them to make one useful data set that can be used for regression and prediction
-    - Find the data for such macro economic variables could be gorverment data which isnt easily available to us
-    - Because of lack of data, we had few variables and had to compromise with our regression
+1. Our biggest challenge was data:
+  i. Find appropriate data for each variable and be able to join them to make one useful data set that can be used for regression and prediction
+  ii. Find the data for such macro economic variables could be gorverment data which isnt easily available to us
+  iii. Because of lack of data, we had few variables and had to compromise with our regression
   
-  2. Further work:
+2. Further work:
     - Include more variables which are better correlated with the target variable and could yield a model that can be used for prediction
     - We could use other models such as Logistic regression model that allow for time series analysis and autoregressive models could maybe fit the data better by          using a lagged value.
