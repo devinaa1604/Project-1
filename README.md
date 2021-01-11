@@ -51,4 +51,4 @@ The MSE was at 1.5 which shows that 98.5% of the model is accurate however, base
   
 2. Further work:
    - Include more variables which are better correlated with the target variable and could yield a model that can be used for prediction
-   - We could use other models such as Logistic regression model that allow for time series analysis and autoregressive models could maybe fit the data better by          using a lagged value.
+   - We could use other models such as Logistic regression model that allow for time series analysis and autoregressive models could maybe fit the data better by using a lagged value.
