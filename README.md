@@ -1,4 +1,4 @@
-# PROJECT 1
+# Predicting Housing Prices Across USA
 
 ![](https://images.dwell.com/photos-6488407258118639616/6651031535077519360-large/a-fire-pit-between-two-wings-of-the-home-encourages-outdoor-living.jpg)
 
